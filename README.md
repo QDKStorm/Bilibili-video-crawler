@@ -17,6 +17,6 @@ If you don't know how to find your SESSDATA, press F12 or Fn+F12 in your browser
 ```
 Whether you key in your own SESSDATA or not, you can enter the AV number or BV number of the video to start the download.
 
-Thereafter you can choose the definition you want, and if the video is split into episodes, all the episodes will be downloaded. The video(s) will be stored in the same directory as main.py
+Thereafter you can choose the definition you want, and if the video is split into episodes, all the episodes will be downloaded. The video(s) will be stored in the same directory as `main.py`
 
 Enjoy!
